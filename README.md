@@ -39,3 +39,21 @@ From the downloaded dataset we would like to use the following csv datasets.
 - I t contains 7,414 row s w ith 75 columns. 
 3) Review s.csv 
 - I t contains 3,43,394 row s w ith 6 columns. 
+
+Some of the more important features this project will look into the following: accommodates, bedrooms, bathrooms, beds, price, 
+minimum_nights, maximum_nights and number_of_reviews.
+
+# Data Cleaning 
+
+Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. 
+
+-> Dropped the columns which were not informative such as id and name for our price prediction.  
+-> Dropped the columns that were informative but difficult to deal with because they required NLP for further analysis.  
+-> Only "neighbourhood cleansed" is required as a feature of home location, which allowed us to eliminate other columns that are related to location.  
+-> Identified and eliminated all the duplicate columns and rows.  
+
+<img width="535" alt="Screen Shot 2022-11-30 at 4 43 34 PM" src="https://user-images.githubusercontent.com/89613198/204924958-08762063-4031-4b34-87c9-78c6e6e60b9e.png">
+
+
+
+<img width="992" alt="Screen Shot 2022-11-30 at 4 50 26 PM" src="https://user-images.githubusercontent.com/89613198/204925092-db0712a4-b64d-43ba-81f9-624097a82b14.png">

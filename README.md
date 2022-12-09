@@ -80,3 +80,4 @@ Instant bookable - was preferred more
 ## Machine Learning Models
 
 1) Predicting the Rental Prices of Airbnb data in chicago
+a) XGBoost

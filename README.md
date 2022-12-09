@@ -89,3 +89,9 @@ b) Random Forest
 A random forest is a supervised machine learning algorithm that is constructed from decision tree algorithms. It’s more accurate than the decision tree algorithm.
 
 #### RMSE value – 0.2775
+
+
+## Conclusion
+Conclusion 
+We spread the work evenly amongst ourselves in each and every section, such as data cleansing, EDA, and models. Three important takeaways from this project for me was good collaboration with the team members, proper analysis of large real time datasets and overall how important and difficult it would be to work on multiple problem statements. If we had more time, we would have come up with some intriguing ideas by evaluating the datasets, categorizing them based on reviews from other datasets and presenting some more specific graphs that would be useful to Airbnb hosts.
+If I was given a chance to redo the problem again, I would initially think of an additional overall question such as price prediction considering factors such as reviews, amenities which would help in determining the price in more real time and precise mannner.

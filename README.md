@@ -90,6 +90,12 @@ A random forest is a supervised machine learning algorithm that is constructed f
 
 #### RMSE value – 0.2775
 
+d) Linear Regression
+Linear regression is a simple Supervised Learning algorithm that is used to predict the value of a dependent variable(y) for a given 
+value of the independent variable(x) by effectively modelling a linear relationship. It is a simple implementation and 
+performance on linarly seperable datasets is good and overfitting can be reduced by regularization. 
+try using Ridge and Lasso Regularization to decrease the influence of less important features. Ridge Regularization is a process which shrinks the regression coefficients of less important features.
+We’ll once again instantiate the model. The Ridge and Lasso Regularization model takes a parameter, alpha , which controls the strength of the regularization.
 
 ## Conclusion
 Conclusion 

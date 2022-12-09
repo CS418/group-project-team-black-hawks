@@ -24,6 +24,7 @@ This project's results will assist businesses in narrowing their target marketin
 
 
 # Dataset description 
+Link to our dataset before and after clean - https://drive.google.com/drive/folders/1E6MlV8LWRFfwaXgGZfFbozsyBijNDJ6I?usp=share_link
 
 Airbnb does not release any data on the listings in its marketplace, but a separate group named Inside Airbnb scrapes 
 and compiles publicly available information about many cities Airbnb's listings from the Airbnb website. For this project, 

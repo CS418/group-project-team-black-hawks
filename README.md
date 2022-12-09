@@ -102,6 +102,7 @@ value of the independent variable(x) by effectively modelling a linear relations
 performance on linarly seperable datasets is good and overfitting can be reduced by regularization. 
 try using Ridge and Lasso Regularization to decrease the influence of less important features. Ridge Regularization is a process which shrinks the regression coefficients of less important features.
 We’ll once again instantiate the model. The Ridge and Lasso Regularization model takes a parameter, alpha , which controls the strength of the regularization.
+#### RMSE value – 0.3864 
 
 ## Conclusion
 Conclusion 

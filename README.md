@@ -86,4 +86,4 @@ Now that the data preprocessing is over, we can start applying different Supervi
 #### RMSE value – 0.3459
 
 b) Random Forest
-A random forest is a supervised machine learning algorithm that is constructed from decision tree algorithms.
+A random forest is a supervised machine learning algorithm that is constructed from decision tree algorithms. It’s more accurate than the decision tree algorithm.

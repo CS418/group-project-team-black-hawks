@@ -89,7 +89,12 @@ b) Random Forest
 A random forest is a supervised machine learning algorithm that is constructed from decision tree algorithms. It’s more accurate than the decision tree algorithm.
 
 c) Catboost
+CatBoost is an algorithm for gradient boosting on decision trees.CatBoost supports all kinds of features be it numeric, categorical, 
+or text and saves time and effort of preprocessing. And the main reason for using catboost over xgboost is it provides
+high ranking benchmark RMSE values compared to xgboost. 
+
 #### RMSE value – 0.2775
+
 
 d) Linear Regression
 Linear regression is a simple Supervised Learning algorithm that is used to predict the value of a dependent variable(y) for a given 
